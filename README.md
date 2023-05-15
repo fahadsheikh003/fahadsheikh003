@@ -7,11 +7,11 @@
 - 🔭 I’m currently working on **Aniketos (An internal network scanner)**
 - 🌱 I’m currently learning **ElasticSearch, AngularJS**
 - 👯 I’m looking to collaborate on projects related to cyber-security or secure programming
-- 👨‍💻 All of my projects are available at [Portfolio](https://fahadwaheed.vercel.app)
 - 💬 Ask me about **cyber security, malware analysis, penetration testing, and development (react, redux, express, node, flask, sql, mongodb)**
 - 📫 How to reach me **fahadwaheedsheikh@gmail.com**
-- 📄 Know about my experiences [Resume](https://fahadwaheed.vercel.app/static/FahadWaheed_Resume.pdf)
+- 📄 Know about my experiences [Resume](https://fahad.secpose.com/static/FahadWaheed_Resume.pdf)
 - ⚡ Fun fact **I can eat zinger burgers for the rest of my life**
+- 👨‍💻 More [Information](https://fahad.secpose.com) about me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
