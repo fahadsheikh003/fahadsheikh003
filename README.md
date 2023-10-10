@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadsheikh003&label=Profile%20views&color=0e75b6&style=flat" alt="fahadsheikh003" /> </p>
 
 - 🎓 I'm a Cyber Security UnderGrad at FAST NATIONAL UNIVERSITY, expecting to graduate in 2024.
-- 🔭 I’m currently working on **Aniketos (An internal network scanner)**
-- 🌱 I’m currently learning **ElasticSearch, AngularJS**
+- 🔭 I’m currently working on **SecT (A Zero Trust Based Network Access Solution)**
+- 🌱 I’m currently learning **NextJS**
 - 👯 I’m looking to collaborate on projects related to cyber-security or secure programming
 - 💬 Ask me about **cyber security, malware analysis, penetration testing, and development (react, redux, express, node, flask, sql, mongodb)**
 - 📫 How to reach me **fahadwaheedsheikh@gmail.com**
